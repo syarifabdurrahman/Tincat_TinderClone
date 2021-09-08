@@ -187,10 +187,6 @@ h3 {
     padding: 7% 15%;
 }
 
-@media screen (min-width:) {
-    
-}
-
 @media (max-width : 1028px){
     .title-img{
         position: static;
