@@ -96,6 +96,7 @@ p {
 #features{
     background-color: white;
     position: relative;
+    z-index: 1;
 }
 
 .feature-title{
@@ -213,5 +214,3 @@ h3 {
         font-weight: 900;
     }
 }
-
-
