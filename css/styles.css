@@ -1,7 +1,8 @@
 body{
     font-family: 'Montserrat',
     sans-serif;
-    max-width: 100%;
+    width: 100%;
+    height: auto;
     text-align: center;
 }
 
@@ -186,6 +187,9 @@ h3 {
     padding: 7% 15%;
 }
 
+@media screen (min-width:) {
+    
+}
 
 @media (max-width : 1028px){
     .title-img{
